@@ -28,17 +28,17 @@ a {
     color: #CC1C0D;
 }
 
+section>div>div:nth-of-type(4)>p:first-of-type {
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+
 .header-image {
     float: left;
     width: 63px;
     height: 36px;
     margin-right: 10px;
     padding: 10px 10px 10px 0;
-}
-
-section>div>div:nth-of-type(4)>p:first-of-type {
-    padding-top: 12px;
-    padding-bottom: 10px;
 }
 
 .dp-image {
